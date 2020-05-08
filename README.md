@@ -5,9 +5,11 @@ scrappy-doo is a subreddit streamer that pings on telegram based on filters.
 ## Set-up
 
 _conf/reddit.conf_
+
 This includes reddit api tokens.
 
 _conf/telegram.conf_
+
 This includes telegram bot api tokens.
 
 
